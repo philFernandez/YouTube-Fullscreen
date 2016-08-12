@@ -1,5 +1,3 @@
-
-
 {
 	"name": "Embedded YouTube Fullscreen",
 	"version": "0.1",
@@ -10,7 +8,7 @@
 	},
 	"content_scripts": [
 		{
-			"js": ["popup.js"],
+			"js": ["script.js"],
 			"matches": ["http://*/*", "https://*/*"],
 			"run_at": "document_start"
 		}
