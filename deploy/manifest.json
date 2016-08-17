@@ -2,7 +2,7 @@
 	"name": "Embedded YouTube Fullscreen",
 	"version": "0.0.0.1",
 	"manifest_version": 2,
-	"description": "Makes it possible to view embedded Youtube videos fullscreed",
+	"description": "Makes it possible to view embedded Youtube videos in full screen. ",
 	"browser_action": {
 		"default_icon": "icon.png"
 	},
